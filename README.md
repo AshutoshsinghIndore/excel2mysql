@@ -1,2 +1,2 @@
 # excel2mysql
-A high-performance tool to import Excel (XLSX/CSV) files into a MySQL database with schema mapping.
+This tool allows you to easily transfer data from Excel spreadsheets to a MySQL database.
